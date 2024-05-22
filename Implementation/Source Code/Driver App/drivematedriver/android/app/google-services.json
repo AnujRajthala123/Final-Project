@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "240307656540",
+    "firebase_url": "https://drivermate-59883-default-rtdb.firebaseio.com",
+    "project_id": "drivermate-59883",
+    "storage_bucket": "drivermate-59883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240307656540:android:bc13e1a8d7fbf96d681399",
+        "android_client_info": {
+          "package_name": "com.example.drivematedriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgA8Gb4TkWdtXVJQwZ5efuU_t-CbKZiu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240307656540:android:61099074fe0f690f681399",
+        "android_client_info": {
+          "package_name": "com.example.drivermateuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgA8Gb4TkWdtXVJQwZ5efuU_t-CbKZiu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
